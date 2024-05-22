@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "node-cron": "^3.0.3",
+    "node-fetch": "^3.3.2"
+  },
+  "name": "checknodestatus",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
